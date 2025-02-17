@@ -27,53 +27,6 @@ img {
     height: 12rem;
 }
 
-.call-to-action {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-
-    padding: 2em 1em;
-}
-
-.call-to-action div {
-    width: 65%;
-}
-
-.call-to-action div * {
-    margin: 0.5em 0;
-}
-
-.products {
-    display: flex;
-    justify-content: space-between;
-
-    padding: 2em 1em;
-}
-
-.product {
-    display: flex;
-
-    width: 45%;
-}
-
-.product div {
-    margin: 0 1em;
-    width: 50%;
-}
-
-.values {
-    display: flex;
-    justify-content: center;
-
-    padding: 2em 1em;
-}
-
-.value {
-    text-align: center;
-    width: 25%;
-    margin: 0 2em;
-}
-
 footer {
     display: flex;
     justify-content: center;

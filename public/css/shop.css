@@ -1,0 +1,50 @@
+.banner {
+    text-align: center;
+    padding: 2em 1em;
+}
+
+.values {
+    display: flex;
+    justify-content: center;
+
+    padding: 2em 1em;
+}
+
+.value {
+    text-align: center;
+    width: 25%;
+    margin: 0 2em;
+}
+
+.products {
+    display: flex;
+    justify-content: space-between;
+    
+    padding: 2em 1em;
+}
+
+.product-catalogue {
+    text-align: center;
+    width: 20%;
+}
+
+.product-items {
+    display: flex;
+    justify-content: space-around;
+
+    width: 80%;
+}
+
+.product-item {
+
+    width: 20%;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin: 0.5em;
+}
